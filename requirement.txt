@@ -3,3 +3,4 @@ uvicorn
 pydantic
 paho-mqtt
 requests
+python-multipart
